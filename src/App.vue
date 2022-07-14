@@ -13,5 +13,8 @@
 </script>
 
 <style>
+page{
+  background-color: #F5F5F5;
+}
 	/*每个页面公共css */
 </style>
